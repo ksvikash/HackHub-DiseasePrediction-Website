@@ -8,6 +8,8 @@ We have created two web applications through the means of **Streamlit** for our 
 
 How to use the Disease Prediction Website:
 
+Deployment Link: http://blackjacks.zuvatech.com/
+
 1. Scroll to Services page / Click on Services in Navigation Bar
 2. Click on Diabetes Prediction or Heart Disease Prediction Link
 3. Enter the data from the medical report into the sliders present on the left side the web application
