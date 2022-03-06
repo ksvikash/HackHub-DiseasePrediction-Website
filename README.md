@@ -13,6 +13,8 @@ How to use the Disease Prediction Website:
 3. Enter the data from the medical report into the sliders present on the left side the web application
 4. Scroll down to see the Test Accuracy and Final Prediction for the respective patient.
 
+Deployment Link: http://blackjacks.zuvatech.com/
+
 Contributors:
 
 1. K S Vikash
